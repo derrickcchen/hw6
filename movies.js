@@ -104,4 +104,24 @@ window.addEventListener('DOMContentLoaded', async function(event) {
   //   operator to test for the existence of an object.
 
   // The code for Step 4 is in Step 2 above
+  // Firebase project for movies is below
+//   <!-- The core Firebase JS SDK is always required and must be listed first -->
+// <script src="https://www.gstatic.com/firebasejs/8.2.7/firebase-app.js"></script>
+
+// <!-- TODO: Add SDKs for Firebase products that you want to use
+//      https://firebase.google.com/docs/web/setup#available-libraries -->
+
+// <script>
+//   // Your web app's Firebase configuration
+//   var firebaseConfig = {
+//     apiKey: "AIzaSyDFkoc8bvf_ghEpIa1Uf-t6u9h2_nl71HQ",
+//     authDomain: "movies-74fe4.firebaseapp.com",
+//     projectId: "movies-74fe4",
+//     storageBucket: "movies-74fe4.appspot.com",
+//     messagingSenderId: "123478126925",
+//     appId: "1:123478126925:web:95832507f32d1886f54704"
+//   };
+//   // Initialize Firebase
+//   firebase.initializeApp(firebaseConfig);
+// </script>
 })
